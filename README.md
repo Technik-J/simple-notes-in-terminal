@@ -1,5 +1,7 @@
 # Simple Notes in Terminal
 
+![1562138519877](https://user-images.githubusercontent.com/17809291/60573116-8d0a5380-9d66-11e9-862b-0f90ef66c542.png)
+
 Wrote this terminal tool to help me write notes in terminal. It writes to home directory in a simple markdown file with timestamps. You can change the location in `config_file.py`.
 
 ## Install
